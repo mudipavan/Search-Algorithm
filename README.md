@@ -123,19 +123,19 @@ def binarySearch(nums, target):
         print('Element not found')
 ~~~~
 ## Sample Input:
-#1)Use a linear search method to match the item in a list.
+#Use a linear search method to match the item in a list.
 ![GitHub Logo](z1.png)
-#2)Find the element in a list using Binary Search(Iterative Method).
+#Find the element in a list using Binary Search(Iterative Method).
 ![GitHub Logo](z2.png)
-#3)Find the element in a list using Binary Search(recursive Method).
+#Find the element in a list using Binary Search(recursive Method).
 ![GitHub Logo](z3.png)
 
 ## OUTPUT:
-#1)Use a linear search method to match the item in a list.
+#Use a linear search method to match the item in a list.
 ![GitHub Logo](lb1.png)
-#2)Find the element in a list using Binary Search(Iterative Method).
+#Find the element in a list using Binary Search(Iterative Method).
 ![GitHub Logo](lb2.png)
-#3)Find the element in a list using Binary Search(recursive Method).
+#Find the element in a list using Binary Search(recursive Method).
 ![GitHub Logo](lb2.png)
 
 ## Result
