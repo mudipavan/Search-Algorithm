@@ -127,7 +127,7 @@ def binarySearch(nums, target):
 ![GitHub Logo](z1.png)
 #2)Find the element in a list using Binary Search(Iterative Method).
 ![GitHub Logo](z2.png)
-  #3)Find the element in a list using Binary Search(recursive Method).
+#3)Find the element in a list using Binary Search(recursive Method).
 ![GitHub Logo](z3.png)
 
 ## OUTPUT:
