@@ -47,8 +47,8 @@ else:
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ~~~
 Program to find the element in a list using Binary Search (Iterative Method).
-Developed by: SYED MUHAMMED ZAHI
-RegisterNumber:21004029
+Developed by: palamakula deepika
+RegisterNumber:21003786
 def binarySearch(array, k, low, high):
 # Check base case
     if low>= k:
@@ -83,8 +83,8 @@ else:
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ~~~
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by: SYED MUHAMMED ZAHI
-RegisterNumber:21004029
+Developed by: palamakula deepika
+RegisterNumber:21003786
 def binarySearch(nums, target):
  # search space is nums[left…right]
     (left, right) = (0, len(nums) - 1)
